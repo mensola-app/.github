@@ -114,6 +114,8 @@ Docker ile çalıştırıldığında API `http://localhost:3457` adresinde hizme
 | `R2_SECRET_ACCESS_KEY`     | Cloudflare R2 gizli anahtar                 |
 | `R2_BUCKET_NAME`           | R2 bucket adı                               |
 | `R2_PUBLIC_URL`            | CDN public URL                              |
+| `TELEGRAM_BOT_TOKEN`       | Telegramdan alınmış bot token               |
+| `TELEGRAM_CHAT_ID`         | Telegram botunun id bilgisi                 |
 
 #### Docker Komutları
 
