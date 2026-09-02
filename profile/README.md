@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="Mensola" width="120" />
+  <img src="logo.png" alt="Mensola" width="120" />
   <h1>mensola</h1>
   <p>Müziğini, filmini takip et — arkadaşlarınla paylaş.</p>
 
