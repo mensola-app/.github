@@ -157,9 +157,9 @@ Mensola is currently in **closed beta**. To apply for early access:
 
 Each sub-package has its own README with detailed setup and development instructions:
 
-- [`api/README.md`](api/README.md) — Backend API: environment variables, Docker setup, running tests
-- [`mobile/README.md`](mobile/README.md) — Mobile app: local development, EAS builds, environment config
-- [`web/README.md`](web/README.md) — Web landing site: local development and deployment
+- [`api/README.md`](https://github.com/mensola-app/api#mensola--api) — Backend API: environment variables, Docker setup, running tests
+- [`mobile/README.md`](https://github.com/mensola-app/mobile#mensola--mobile-app) — Mobile app: local development, EAS builds, environment config
+- [`web/README.md`](https://github.com/mensola-app/web/#mensola--web) — Web landing site: local development and deployment
 
 ---
 
