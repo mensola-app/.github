@@ -165,4 +165,7 @@ Each sub-package has its own README with detailed setup and development instruct
 
 ## License
 
-ISC © Mensola
+Copyright © Mensola. All rights reserved.
+
+The source code in this repository is made available for review purposes only. It may not be copied, reproduced, distributed, or used for commercial purposes without explicit written permission from the authors.
+
