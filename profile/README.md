@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="mensola" width="100" />
+  <img src="logo.png" alt="mensola" width="100" />
   <h1>mensola</h1>
   <p><strong>Track what you listen to. Track what you watch. Share it with the people you care about.</strong></p>
 
